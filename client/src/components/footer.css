@@ -1,0 +1,16 @@
+.footer{
+    width: 100%;
+    color: #fff;
+    min-height: 100px;
+    position: relative;
+    bottom: 0;
+    background: #21262c;
+}
+
+/* .foort_container{
+    border: 2px solid red;
+} */
+
+.footer .first,.second,.third{
+    width: 300px;
+}
